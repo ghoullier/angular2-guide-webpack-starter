@@ -1,0 +1,6 @@
+# Build system
+dist/
+# Dependency manager
+node_modules/
+# TypeScript tools
+typings/
